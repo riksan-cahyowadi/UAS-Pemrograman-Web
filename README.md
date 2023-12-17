@@ -1,7 +1,7 @@
-Nama: Riksan Cahyowadi
+Nama: Riksan Cahyowadi<br>
 NIM: 121140106
 
-**Hosting**: [https://121140168uaspwebra.000webhostapp.com/](https://uas-pemweb-ra-riksan.000webhostapp.com/)
+**Hosting**: https://uas-pemweb-ra-riksan.000webhostapp.com/
 
 ## Sekilas tentang projek ini
 Projek ini berisi CRUD (Create, Read, Update, Delete) yang mana user bisa bebas memanipulasi/menambah data identitas.
